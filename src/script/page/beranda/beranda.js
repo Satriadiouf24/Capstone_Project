@@ -6,7 +6,7 @@ const beranda = () => {
    <div class="container-beranda">
     <div class="beranda-header">
         <div class="judul-beranda">
-            <h1>Pentas Seni Indonesia</h1>
+            <h1>Pentas Seni Indonesia 1</h1>
             <p>Selamat datang di portal keindahan dan kekayaan seni Indonesia! Di sini, kita menjelajahi pesona yang tiada taranya dari keragaman seni dan budaya yang memikat dari pelosok Nusantara. Melalui galeri yang memukau, artikel yang menginspirasi, dan kalender kegiatan pentas seni yang memukau, mari bersama-sama merayakan warisan kreativitas yang tak ternilai dari Indonesia.</p>
         </div>
         <div class="gambar-beranda">
