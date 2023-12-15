@@ -10,7 +10,7 @@ const beranda = () => {
             <p>Selamat datang di portal keindahan dan kekayaan seni Indonesia! Di sini, kita menjelajahi pesona yang tiada taranya dari keragaman seni dan budaya yang memikat dari pelosok Nusantara. Melalui galeri yang memukau, artikel yang menginspirasi, dan kalender kegiatan pentas seni yang memukau, mari bersama-sama merayakan warisan kreativitas yang tak ternilai dari Indonesia.</p>
         </div>
         <div class="gambar-beranda">
-            src/public/aset/beranda/item/3.png
+            <img src="src/public/aset/beranda/item/3.webp" alt="">
         </div>
     </div>
     <div class="content-beranda">
