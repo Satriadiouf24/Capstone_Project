@@ -13,7 +13,7 @@ pipeline {
         stage('Checkout') {
       steps {
         script {
-          checkout([$class: 'GitSCM', branches: [[name: '*/main']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/Satriadiouf24/capstoneproject', credentialsId: GIT_CREDENTIALS]]])
+          checkout([$class: 'GitSCM', branches: [[name: '*/main']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/Satriadiouf24/Capstone_Project', credentialsId: GIT_CREDENTIALS]]])
         }
       }
     }
