@@ -1,1 +1,0 @@
-class DataSource extends HTMLElement{static getItmes(t){return fetch(t)}static getDetailItmes(t,e){return fetch(t,e)}}export default DataSource;

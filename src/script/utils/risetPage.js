@@ -1,1 +1,0 @@
-const risetPages=()=>{window.scrollTo({top:0,behavior:"smooth"});const e=document.querySelector("header"),o=e.querySelector(".box");e.style.backgroundImage="none",e.style.height="max-content",o&&(o.innerHTML="")};export default risetPages;

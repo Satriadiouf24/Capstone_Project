@@ -1,1 +1,0 @@
-const configurasiTambahan=()=>{setTimeout((()=>{(()=>{const e=document.querySelector(".box-1-3-detail-artikel"),t=document.querySelector(".box-1-detail-artikel"),a=e.offsetHeight;t.style.minHeight=`${a}px`})()}),100)};export default configurasiTambahan;

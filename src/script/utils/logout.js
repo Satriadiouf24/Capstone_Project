@@ -1,1 +1,0 @@
-import header from"../componen/header";const logout=()=>{document.querySelector("#button-keluar").addEventListener("click",(()=>{document.cookie="token=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;",document.cookie="role=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;",header()}))};export default logout;

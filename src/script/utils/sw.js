@@ -1,1 +1,0 @@
-import{Workbox}from"workbox-window";const swRegister=async()=>{if(!("serviceWorker"in navigator))return;const o=new Workbox("./sw.bundle.js");try{await o.register()}catch(o){console.log(o)}};export default swRegister;
