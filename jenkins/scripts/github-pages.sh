@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-set -x
+
 # perintah ini hanya untuk memastikan folder yang ada pada dist
 ls dist
 # set the user, I just use Github Actions.
