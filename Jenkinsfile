@@ -7,7 +7,7 @@ pipeline {
     environment {
         PUBLIC_URL       = 'https://satriadiouf24.github.io/Capstone_Project'
         GIT_CREDENTIALS= credentials('jenkins-github-token')
-        GITHUB_REPOSITORY = 'satriadiouf24/capstoneproject'
+        GITHUB_REPOSITORY = 'satriadiouf24/Capstone_Project'
     }
     stages {
         stage('Checkout') {
